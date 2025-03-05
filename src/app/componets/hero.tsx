@@ -50,7 +50,8 @@ export function Hero() {
 
                             <a
                                 target='_blank'
-                                href="https://github.com/Daniel-Bau85"
+                                href="https://github.com/Daniel-Bau85
+                                // "
                                 className="bg-gray-800 px-5 py-2 rounded-md font-semibold flex items-center justify-center w-fit gap-2"
                             >
                                 <GithubLogo className='w-5 h-5 text-white' />

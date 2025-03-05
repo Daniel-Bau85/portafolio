@@ -10,7 +10,7 @@ export function Footer2() {
                         Contacto
                     </h4>
                 </div>
-                <div className="bg-amber-50 text-black rounded-lg p-6 shadow-lg w-full max-w-md mx-auto my-auto flex flex-col justify-center items-center text-center">
+                <div className="bg-white text-black rounded-lg p-6 shadow-lg w-full max-w-md mx-auto my-auto flex flex-col justify-center items-center text-center">
 
                     <p>
                         Si estás interesado en <span className="font-semibold text-blue-600">trabajar conmigo</span>, no dudes en escribirme vía
@@ -22,7 +22,7 @@ export function Footer2() {
 
 
                 <div className="flex justify-center items-center min-h-[250px]">
-                    <footer className="bg-amber-50 text-white rounded-lg p-6 shadow-lg w-full max-w-md">
+                    <footer className="bg-white text-white rounded-lg p-6 shadow-lg w-full max-w-md">
                         <div className="space-y-3">
 
                             <p className="flex items-center gap-2 justify-center">
@@ -59,7 +59,7 @@ export function Footer2() {
                             <p className="flex items-center gap-2 justify-center">
                                 <a
                                     target='_blank'
-                                    href={`https://wa.me/7751578470?text=Olá vim pelo site e gostaria de mais informações`}
+                                    href={`https://wa.me/7751578470?text=Hola,Buenos Dias `}
                                     className="bg-green-500 px-5 py-2 rounded-md font-semibold flex items-center justify-center w-fit gap-2"
                                 >
                                     <WhatsappLogo className='w-5 h-5' />
